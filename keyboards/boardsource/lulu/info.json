@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "manufacturer": "Boardsource",
     "keyboard_name": "lulu",
     "maintainer": "waffle87",
@@ -162,5 +163,5 @@
                 { "matrix": [9, 1], "x": 13, "y": 4.15 }
             ]
         }
-    }
+   }
 }
