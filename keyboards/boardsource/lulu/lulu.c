@@ -7,15 +7,15 @@ bool encoder_update_kb(uint8_t index, bool clockwise) {
     if (!encoder_update_user(index, clockwise)) { return false; }
     if (index == 0) {
         if (clockwise) {
-            tap_code(KC_MRWD);
+            tap_code(_______);
         } else {
-            tap_code(KC_MFFD);
+            tap_code(_______);
         }
     } else if (index == 1) {
         if (clockwise) {
-            tap_code(KC_VOLU);
+            tap_code(_______);
         } else {
-            tap_code(KC_VOLD);
+            tap_code(_______);
         }
     }
     return true;
