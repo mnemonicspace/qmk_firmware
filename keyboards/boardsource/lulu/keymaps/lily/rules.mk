@@ -1,0 +1,4 @@
+WPM_ENABLE = yes
+NKRO_ENABLE = yes
+SPLIT_KEYBOARD = yes
+OLED_ENABLE = yes
